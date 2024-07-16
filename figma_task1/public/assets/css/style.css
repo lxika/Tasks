@@ -1,0 +1,51 @@
+.btn-login {
+    background: #FFFFFF;
+    font-family: sans-serif;  
+    font-size: 15px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #2E2F35;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 14px 21.8438px 12px 22px;
+    width: 83.84px;
+    height: 44px;
+    border: 2px solid #2E2F35;
+    box-shadow: 3px 3px 0px #2E2F35;
+    border-radius: 12px;
+}
+.btn-create-account {
+    background: #FF6D2C;
+    font-family:  sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 18px;
+    text-align: center;
+    color: #FFFFFF;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 14px 25.8594px 12px 25px;
+    width: 184.86px;
+    height: 44px;
+    border: 2px solid #2E2F35;
+    box-shadow: 3px 3px 0px #2E2F35;
+    border-radius: 12px;
+}
+
+ .nav-link{
+    font-family: sans-serif; 
+    font-size: 15px;
+    font-weight: 500;
+    /* line-height: 18px;
+    text-align: left;
+    width: 69px;
+    height: 18px;
+    gap: 0px;
+    opacity: 0px;  */
+
+ }
