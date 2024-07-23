@@ -119,7 +119,7 @@
                     <img src="{{ asset('assets/image/paragon1.png') }}" alt="" class="testimonial-logo1">
                 </div>
                 <div class="d-flex justify-content-start">
-                    <a href="#" class="btn btn-create-account ms-lg-3">Try it risk-free</a>
+                    <a href="#" class="btn btn-create-account ms-lg-3">TRY IT RISK-FREE</a>
                 </div>
             </div>
         </div>
@@ -272,7 +272,72 @@
 </section>
 
 
-
+<section class="eight-section text-center">
+    <div class="container third-section">
+        <div class="text-center mb-5">
+            <p class="text-center mt-0" style="font-size: 63px; font-weight: 700; inline-height: 76px;nletter-spacing: -2px; text-align: center;">PostPilot is 🔥 for <span class="brand-caption" style="color: #009387;">DTC</span></p>
+        </div>
+        <div class="container">
+            <div class="row">
+              <div class="col-md-3">
+                <div class="testimonial-card">
+                    <img src="{{ asset('assets/image/helen_guo.png') }}" alt="Author Image" class="testimonial-image">
+                    <p class="testimonial-author">Author Name</p>
+                    <p class="testimonial-handle">@AuthorHandle</p>
+                  <div class="d-flex">
+                    <div class="testimonial-content justify-content-left">
+                      <p>+1 for PostPilot. Have only done some, but it's been wonderful. Their support is top-notch. Super helpful every time I needed to set something up.</p>
+                    </div>
+                  </div>
+                  <img src="{{ asset('assets/image/twitter.svg') }}" alt="Twitter Icon" class="twitter-icon">
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="testimonial-card">
+                    <img src="{{ asset('assets/image/helen_guo.png') }}" alt="Author Image" class="testimonial-image">
+                    <p class="testimonial-author">Helan Guo</p>
+                    <p class="testimonial-handle">@HelanGuo_</p>
+                  <div class="d-flex">
+                    <div class="testimonial-content justify-content-left">
+                      <p>Mentioning PostPilot for years. Good for retargeting and you can get creative with the messaging.</p>
+                    </div>
+                  </div>
+                  <img src="{{ asset('assets/image/twitter.svg') }}" alt="Twitter Icon" class="twitter-icon">
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="testimonial-card">
+                    <img src="{{ asset('assets/image/nathan_woods.png') }}" alt="Author Image" class="testimonial-image">
+                    <p class="testimonial-author">Nathan Woods</p>
+                    <p class="testimonial-handle">@HeisNathan</p>
+                  <div class="d-flex">
+                    <div class="testimonial-content justify-content-left">
+                      <p>I've done some rad winbacks to 60 days since purchase that have been great.</p>
+                    </div>
+                  </div>
+                  <img src="{{ asset('assets/image/twitter.svg') }}" alt="Twitter Icon" class="twitter-icon">
+                </div>
+              </div>
+              <div class="col-md-3">
+                <div class="testimonial-card">
+                    <img src="{{ asset('assets/image/chris_lander.png') }}" alt="Author Image" class="testimonial-image">
+                    <p class="testimonial-author">Chris Lander</p>
+                    <p class="testimonial-handle">@chris_basis</p>
+                  <div class="d-flex">
+                    <div class="testimonial-content justify-content-left">
+                      <p>+1 for PostPilot. Have only done some, but it's been wonderful. Their support is top-notch. Super helpful every time I needed to set something up.</p>
+                    </div>
+                  </div>
+                  <img src="{{ asset('assets/image/twitter.svg') }}" alt="Twitter Icon" class="twitter-icon">
+                </div>
+              </div>
+            </div>
+          </div>
+        <div class="d-flex justify-content-center">
+            <a href="#" class="btn btn-create-account ms-lg-3">TRY IT RISK-FREE</a>
+        </div>
+    </div>
+</section>
 
 
 <section class="nine-section">
@@ -287,7 +352,6 @@
                 <div class="text">Off Postcard</div>
                 <div class="text">Campigns</div>
                 <p>The 🚀 supplements brand wanted to offset high ad costs and reach dormant customers. They scored 1000%+ ROIs.</p>
-               
                 <div class="row">
                     <div class="col-md-3 col-3 mb-4">
                         <div class="mt-3"><h2>1468%</h2></div>
@@ -354,7 +418,7 @@
 </section>
 
 
-<section class="third-section text-center">
+<section class="eight-section text-center">
     <div class="container third-section">
         <div class="text-center mb-5">
             <p class="text-center mb-0" style="font-size: 63px; font-weight: 700; inline-height: 76px;nletter-spacing: -2px; text-align: center;">Latest trends & <span class="brand-caption" style="color: #009387;">insights</span></p>

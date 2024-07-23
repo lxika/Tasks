@@ -328,7 +328,45 @@
   }
 
 /* ----------------------------------------------------------------  */
-
+.eight-section {
+    padding: 10px;
+}
+.testimonial-card {
+    border: 1px solid #252424;
+    border-radius: 8px;
+    padding: 20px;
+    position: relative;
+    margin-bottom: 20px;
+  }
+  .testimonial-card img {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+    object-fit: cover;
+  }
+  .twitter-icon {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+  }
+  .testimonial-content {
+    padding-left: 10px;
+    padding-top: 10px;
+    align-content: left;
+  }
+  .testimonial-author {
+    font-weight: bold;
+    margin-bottom: 0;
+  }
+  .testimonial-handle {
+    color: #666;
+    margin-bottom: 10px;
+  }
+  .testimonial-image {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+  }
 
 /* ----------------------------------------------------------------  */
 
@@ -382,12 +420,4 @@ footer {
 	color: #000;
 	font-size: 20px;
 	font-weight: 700;
-}
-#basic-addon2 {
-	background: #fe1e4f;
-	color: #000;
-}
-.socials i {
-	font-size: 18px;
-	margin-right: 15px;
 }
